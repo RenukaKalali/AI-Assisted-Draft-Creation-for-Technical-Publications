@@ -1,4 +1,4 @@
-AI-Assisted Draft Creation for Technical Publications
+#AI-Assisted Draft Creation for Technical Publications
 
 **Project Overview**
 
